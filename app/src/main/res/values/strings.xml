@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">threadbase</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="what_do_you">What do you want to sign up as?</string>
+    <!-- strings.xml -->
+    <string name="independent">
+
+Independent Designer
+</string>
+    <!-- strings.xml -->
+    <string name="signup_as_a">
+
+Signup as an independent/solo designer
+</string>
+    <string name="next">
+
+Next
+</string>
+    <string name="oga_designer">
+
+Oga Designer
+</string>
+    <string name="signup_as_an_oga">
+
+Signup as an Oga, and lead your team.
+</string>
+    <!-- strings.xml -->
+    <string name="shop_name_o">
+
+Shop name or Brand name
+</string>
+    <string name="username_or">
+
+Username or Phone Number
+</string>
+    <string name="password">
+
+Password
+</string>
+    <string name="forgot_pass">
+
+Forgot password?
+</string>
+    <!-- strings.xml -->
+    <string name="log_in">
+
+Log in
+</string>
+    <string name="notification">
+
+Notifications
+</string>
+    <!-- strings.xml -->
+    <string name="today">
+
+Today
+</string>
+    <string name="this_week">
+
+This Week
+</string>
+
+    <string name="this_month">
+
+This Month
+</string>
+
+
+
+</resources>

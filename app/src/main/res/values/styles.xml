@@ -1,0 +1,250 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="sign_up">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:textColor">#A5D6AF</item>
+    </style>
+    <!-- styles.xml -->
+    <style name="login">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:textColor">#80A5D6AF</item>
+    </style>
+    <!-- styles.xml -->
+    <style name="what_do_you">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">#2D3A30</item>
+    </style>
+    <!-- styles.xml -->
+    <style name="independent">
+
+        <item name="android:textSize">
+            14sp
+        </item>
+
+        <item name="android:textColor">
+            #A5D6AF
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="signup_as_a">
+
+        <item name="android:textSize">
+            10sp
+        </item>
+
+        <item name="android:textColor">
+            #A0A4A8
+        </item>
+
+    </style>
+
+    <style name="next">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+
+    <style name="oga_designer">
+
+        <item name="android:textSize">
+            14sp
+        </item>
+
+        <item name="android:textColor">
+            #A5D6AF
+        </item>
+    </style>
+
+    <style name="signup_as_an_oga">
+
+        <item name="android:textSize">
+            10sp
+        </item>
+
+        <item name="android:textColor">
+            #A0A4A8
+        </item>
+
+    </style>
+
+    <style name="shop_name_o">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #662D3A30
+        </item>
+
+    </style>
+
+    <style name="username_or">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #662D3A30
+        </item>
+
+    </style>
+
+    <style name="password">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #662D3A30
+        </item>
+
+    </style>
+
+    <style name="forgot_pass">
+
+        <item name="android:textSize">
+            12sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #A5D6AF
+        </item>
+
+        <item name="android:shadowColor">
+            #0D000000
+        </item>
+
+        <item name="android:shadowDx">
+            0
+        </item>
+
+        <item name="android:shadowDy">
+            4
+        </item>
+
+        <item name="android:shadowRadius">
+            4
+        </item>
+
+    </style>
+
+    <style name="log_in">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+    <style name="notification">
+
+        <item name="android:textSize">
+            20sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #2D3A30
+        </item>
+
+    </style>
+
+    <!-- styles.xml -->
+    <style name="today">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #2D3A30
+        </item>
+
+    </style>
+
+    <style name="this_week">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #2D3A30
+        </item>
+
+    </style>
+    <style name="this_month">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #2D3A30
+        </item>
+
+    </style>
+
+
+</resources>
